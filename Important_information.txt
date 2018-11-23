@@ -1,3 +1,8 @@
 Description of the site: bullshit and others things.
 
-JAVASCRIPT, CSS3 AND HTML
+HTML:
+CC3:
+JAVASCRIPT:
+JSON: ????
+MARKDOWN: 
+PHP: 
